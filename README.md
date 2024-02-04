@@ -1,2 +1,2 @@
-git branch dev
-git branch -m dev main
+git branch main
+git branch -m main dev
